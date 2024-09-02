@@ -1,0 +1,2 @@
+23:27:31 =>[error]first log message!
+23:27:31 =>[error]/home/primes/Linux/MPRPC/example/callee/friendservice.cc:main:44

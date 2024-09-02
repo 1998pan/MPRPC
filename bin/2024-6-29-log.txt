@@ -1,0 +1,4 @@
+1:28:16 =>[info]first log message!
+1:28:16 =>[info]/home/primes/Linux/MPRPC/example/callee/friendservice.cc:main:44
+1:28:16 =>[info]service_name:FriendServiceRpc
+1:28:16 =>[info]method_name:GetFriendsList
